@@ -1,0 +1,15 @@
+{
+  "name": "@ulrich100-sys/laravel-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url": "git://github.com/@ulrich100-sys/laravel-users.git."
+  },
+  "license": "ISC"
+}
